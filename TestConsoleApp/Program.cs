@@ -23,7 +23,7 @@ namespace TestConsoleApp
             }*/
 
             //999 login
-            //threeNine.LogIn("onofrei.igor.mail.ru@mail.ru", "");
+            threeNine.LogIn("onofrei.igor.mail.ru@mail.ru", "7394igor");
 
             Console.WriteLine("Done!");
             Console.ReadKey();
