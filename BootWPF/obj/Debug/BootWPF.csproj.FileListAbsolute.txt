@@ -1,0 +1,15 @@
+D:\VS Project\BootWPF\BootWPF\bin\Debug\BootWPF.exe.config
+D:\VS Project\BootWPF\BootWPF\bin\Debug\BootWPF.exe
+D:\VS Project\BootWPF\BootWPF\bin\Debug\BootWPF.pdb
+D:\VS Project\BootWPF\BootWPF\obj\Debug\BootWPF.csprojResolveAssemblyReference.cache
+D:\VS Project\BootWPF\BootWPF\obj\Debug\MainWindow.g.cs
+D:\VS Project\BootWPF\BootWPF\obj\Debug\App.g.cs
+D:\VS Project\BootWPF\BootWPF\obj\Debug\BootWPF_MarkupCompile.cache
+D:\VS Project\BootWPF\BootWPF\obj\Debug\BootWPF_MarkupCompile.lref
+D:\VS Project\BootWPF\BootWPF\obj\Debug\MainWindow.baml
+D:\VS Project\BootWPF\BootWPF\obj\Debug\BootWPF.g.resources
+D:\VS Project\BootWPF\BootWPF\obj\Debug\BootWPF.Properties.Resources.resources
+D:\VS Project\BootWPF\BootWPF\obj\Debug\BootWPF.csproj.GenerateResource.Cache
+D:\VS Project\BootWPF\BootWPF\obj\Debug\BootWPF.csproj.CoreCompileInputs.cache
+D:\VS Project\BootWPF\BootWPF\obj\Debug\BootWPF.exe
+D:\VS Project\BootWPF\BootWPF\obj\Debug\BootWPF.pdb
